@@ -1,0 +1,4 @@
+aspnet_web:
+  build: .
+  ports:
+    - "5004:5004"
